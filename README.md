@@ -1,13 +1,13 @@
-# 🏠 House Price Prediction (Ames Dataset)
+# House Price Prediction (Ames Dataset)
 
-## 📌 Project Overview
+## Project Overview
 
 This project predicts house prices using machine learning techniques on the Ames Housing dataset.
 The goal is to build a regression model that can accurately estimate property prices based on various features such as area, quality, and location.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * Source: Kaggle (House Prices - Advanced Regression Techniques)
 * Files used:
@@ -18,9 +18,9 @@ The goal is to build a regression model that can accurately estimate property pr
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Scikit-learn
@@ -28,7 +28,7 @@ The goal is to build a regression model that can accurately estimate property pr
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### 1. Data Preprocessing
 
@@ -58,14 +58,14 @@ The goal is to build a regression model that can accurately estimate property pr
 
 ---
 
-## 📊 Results
+## Results
 
 * RMSE: ~25,000
 * R² Score: ~0.85
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 house-price-project/
@@ -85,7 +85,7 @@ house-price-project/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -107,7 +107,7 @@ python predict.py
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Data preprocessing is critical for model performance
 * Feature alignment between train and test is essential
@@ -116,7 +116,7 @@ python predict.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Apply log transformation to reduce skewness
 * Use advanced models (Gradient Boosting, XGBoost)
@@ -125,12 +125,14 @@ python predict.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Muhammad Umar Alam
+Sehar Ajmal
+Talha Khalid
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates a complete machine learning pipeline from data preprocessing to model evaluation and prediction. It highlights the importance of clean data and proper feature handling in achieving good performance.
